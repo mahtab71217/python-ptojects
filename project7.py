@@ -27,7 +27,7 @@ for i in range(x):
     for j in range(y):
         my_array[i,j]=i*j
         
-        
+print(my_array)   
         
         
       
