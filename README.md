@@ -121,3 +121,13 @@ Suppose the following input is supplied to the program:
 1,2,3,4,5,6,7,8,9
 Then, the output should be:
 1,3,5,7,9
+
+project17:
+A website requires the users to input username and password to register. Write a program to check the validity of password input by users.
+Following are the criteria for checking the password:
+1. At least 1 letter between [a-z]
+2. At least 1 number between [0-9]
+1. At least 1 letter between [A-Z]
+3. At least 1 character from [$#@]
+4. Minimum length of transaction password: 6
+5. Maximum length of transaction password: 12
