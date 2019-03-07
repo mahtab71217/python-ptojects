@@ -131,3 +131,9 @@ Following are the criteria for checking the password:
 3. At least 1 character from [$#@]
 4. Minimum length of transaction password: 6
 5. Maximum length of transaction password: 12
+
+
+
+project18:
+Define a class with a generator which can iterate the numbers, which are divisible by 7, between a given range 0 and n.
+
